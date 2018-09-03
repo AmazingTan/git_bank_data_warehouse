@@ -1,1 +1,1 @@
-this is my first git loginfo £¡
+this is my first git loginfo yes
